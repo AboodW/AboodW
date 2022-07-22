@@ -16,7 +16,7 @@
 <br><br><hr>
 - 🔭 I’m currently Looking For a Job**
 - 🌱 I’m currently learning ... **[React.js[Hooks,redux]]**
--  📫 I’m currently working on **My Portifolio using React.js and sanity*
+-  📫 I’m currently working on **My Portifolio using React.js and sanity**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open to work and for intern opportunities **
 - ⚡ Fun fact ... **Anime**❤
