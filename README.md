@@ -14,8 +14,6 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 - 🔭 I’m currently Looking For a Job**
 - 🌱 I’m currently learning ... **[React.js[Hooks,redux]]**
