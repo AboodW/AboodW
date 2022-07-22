@@ -13,7 +13,7 @@
 <h3 align="center">Bachelor in Computer Systems Engineering</h3>
 
 
-
+<br><br><hr>
 - 🔭 I’m currently Looking For a Job**
 - 🌱 I’m currently learning ... **[React.js[Hooks,redux]]**
 - 💬 Ask me about ... **Web Develpoment**
