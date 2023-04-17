@@ -14,11 +14,11 @@
 
 
 <br><br><hr>
-- 🔭 I’m currently Looking For a Job**
+- 🔭 **
 - 🌱 I’m currently learning ... **[React.js[redux]]**
--  📫 I’m currently working on **My Final Project in GSG (E-Commerce)**
+-  📫 I’m currently working on ****
 - 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open to work and for intern opportunities **
+- 😄 Employement ... ****
 - ⚡ Fun fact ... **Anime**❤
 - 📫 How to reach me **abed.2alwawi2000@gmail.com**
 
